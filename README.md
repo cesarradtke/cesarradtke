@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cesarradtke
 - 👀 I’m interested in tech & humanities
-- 🌱 I’m currently learning philosophy
+- 🏛️ I currently have a master's degree in philosophy
 - 💞️ I'm looking to collaborate humbly, without being a developer.
 
 
